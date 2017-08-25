@@ -1,0 +1,10 @@
+<templateSet group="beizhen">
+  <template name="bz" value="&#10;//北镇============START==============[$desc$]====&#10;$code$&#10;//北镇============New_Old============[$desc$]====&#10;//$old_code$&#10;//北镇============END================[$desc$]====&#10;" description="北镇注释" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="old_code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
